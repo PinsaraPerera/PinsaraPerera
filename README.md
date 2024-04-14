@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Perera</h1>
 <h3 align="center">Computer Science undergraduate in Sri Lanka. Passionate about AI, ML, and Cybersecurity.</h3>
 
-<img align="right" alt="cover_gif" width="400" src="./aiBrain.gif">
+<img align="right" alt="cover_gif" width="400" src="./github.gif">
 
 <p align="left"><img src="https://visitcount.itsvg.in/api?id=PinsaraPerera&icon=5&color=0" alt="pinsaraperera"/></p>
 
