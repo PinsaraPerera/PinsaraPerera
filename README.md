@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1pawanpinsara@gmail.com**
 
-- 😎 Check my portfolio **pawanperera.com**
+- 😎 Check my portfolio **[pawanperera.com](https://www.pawanperera.com/)**
 
 - ⚡ Fun fact **Love to work with a team**
 
