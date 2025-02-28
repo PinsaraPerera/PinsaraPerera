@@ -5,7 +5,7 @@
 
 <img align="right" alt="cover_gif" width="400" src="./github.gif">
 
-<p align="left"><img src="https://visitcount.itsvg.in/api?id=PinsaraPerera&icon=5&color=0" alt="pinsaraperera"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=PinsaraPerera&color=green&style=for-the-badge" alt="pinsaraperera"/></p>
 
 - 🌱 I’m currently working on **NLP , Machine Learning and AI projects**
 
