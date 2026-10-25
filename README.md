@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Pawan Perera</h1>
-<h3 align="center">Computer Science undergraduate in Sri Lanka. Passionate about AI, ML, and Cybersecurity.</h3>
+<h3 align="center">Computer Science graduate in Sri Lanka. Passionate about AI, ML, and Cybersecurity.</h3>
 
 <img align="right" alt="cover_gif" width="400" src="./github.gif">
 
